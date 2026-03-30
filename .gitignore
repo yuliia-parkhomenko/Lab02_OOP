@@ -1,0 +1,14 @@
+# Ігнорувати всі .exe файли
+*.exe
+
+# Ігнорувати тимчасові файли Visual Studio (якщо вони є)
+*.obj
+*.o
+*.pch
+*.pdb
+*.ilk
+*.idb
+*.log
+*.user
+*.suo
+*.vcxproj.user
